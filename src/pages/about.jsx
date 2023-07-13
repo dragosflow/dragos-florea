@@ -60,7 +60,7 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            I`&apos;`m Florea Dragos. I live in Timisoara, Romania where I develop applications.
+            I&apos;m Florea Dragos. I live in Timisoara, Romania where I develop applications.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
@@ -90,7 +90,7 @@ export default function About() {
                 One of my favorites is going for walks with my friends because it allows me to take a break from
                 the digital realm. When I want to unwind and enjoy some leisure time,
                 playing on the PS5 is one of my go-to activities. Football is a sport that has always fascinated me.
-                Whether it `&apos;`s playing with friends in a local park or watching professional matches,
+                Whether it&apos;s playing with friends in a local park or watching professional matches,
                 it is a great way for me to stay active.
                 Driving is another thing that I thoroughly enjoy.
               </p>

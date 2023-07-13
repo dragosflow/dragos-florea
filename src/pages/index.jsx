@@ -247,7 +247,7 @@ export default function Home() {
           Florea Dragos - Web/Mobile Developer & AppFlow founder
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          I`&apos;`m Dragos Florea, a web & mobile developer from Romania.
+          I&apos;m Dragos Florea, a web & mobile developer from Romania.
           With a passion for technology and innovation,
           I am dedicated to creating efficient and appealing digital solutions.
           I am the founder of AppFlow, a company focused on developing high-quality web and mobile applications.
