@@ -77,7 +77,7 @@ export default function Workstation() {
               For Mobile Apps.
             </Tool>
             <Tool title="Google Chrome">
-              Because it's easier to use developer tools.
+              Because it`&apos;`s easier to use developer tools.
             </Tool>
             <Tool title="pgAdmin4">
               I use it to visualize databases.

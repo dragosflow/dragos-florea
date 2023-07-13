@@ -6,9 +6,6 @@ import  webpack  from 'webpack';
 const nextConfig = {
   pageExtensions: ['js', 'jsx', 'mdx', 'pdf'], // Adaugă extensia 'pdf' aici
   reactStrictMode: true,
-  experimental: {
-    scrollRestoration: true,
-  },
   webpack: (config, options) => {
     config.module.rules.push({
       test: /\.pdf$/,
@@ -16,7 +13,6 @@ const nextConfig = {
         {
           loader: 'pdf-loader',
           options: {
-            // Opțional: Adaugă opțiuni specifice loaderului PDF aici, dacă este necesar
           },
         },
       ],

@@ -50,7 +50,7 @@ export default function Education() {
 
           <ToolsSection title="University">
             <Tool title='West University of Timisoara - Computer Science, Romania'>
-                Bachelor's degree <br/>
+                Bachelor`&apos;`s degree <br/>
                 Thesis - Teammanager, a web application created with React and Phoenix Liveview
                 where users create developer teams and manage projects <br/>
 
