@@ -42,14 +42,14 @@ export default function Education() {
       >
         <div className="space-y-20">
           <ToolsSection title="Highschool">
-            <Tool title='Liceul Vocational Pedagogic "Nicolae Bolcas" Beius - Mathematics and Computer Science'>
+            <Tool title='Liceul Vocational Pedagogic "Nicolae Bolcas" Beius - Mathematics and Computer Science, Romania'>
 
                 BACALAUREAT Degree
            </Tool>
           </ToolsSection>
 
           <ToolsSection title="University">
-            <Tool title='West University of Timisoara - Computer Science'>
+            <Tool title='West University of Timisoara - Computer Science, Romania'>
                 Bachelor's degree <br/>
                 Thesis - Teammanager, a web application created with React and Phoenix Liveview
                 where users create developer teams and manage projects <br/>
@@ -62,11 +62,15 @@ export default function Education() {
               META FRONT-END DEVELOPER PROFESSIONAL CERTIFICATE
            </Tool>
 
-           <Tool title='Eurolingva'>
+           <Tool title='Erasmus+ EU for IT career, Portugal'>
+              Internship - IT company
+           </Tool>
+
+           <Tool title='Eurolingva, Romania'>
               Cambridge FCE - Grade A
            </Tool>
 
-           <Tool title='ECDL Romania'>
+           <Tool title='ECDL, Romania'>
               European Computer Driving License
            </Tool>
           </ToolsSection>

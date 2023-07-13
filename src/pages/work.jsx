@@ -3,48 +3,40 @@ import Image from 'next/image'
 
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
-import logoAnimaginary from '@/images/logos/animaginary.svg'
-import logoCosmos from '@/images/logos/cosmos.svg'
-import logoHelioStream from '@/images/logos/helio-stream.svg'
-import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
-import logoPlanetaria from '@/images/logos/planetaria.svg'
-
+import logoAppFlow from '@/images/logos/AppFlow.jpg'
+import logoSample from '@/images/logos/Sample.jpg'
+import logoTeamManager from '@/images/logos/TeamManager.jpg'
+import logoRNImobiliare from '@/images/logos/RNImobiliare.jpg'
 const projects = [
   {
-    name: 'Planetaria',
+    name: 'appflow',
     description:
-      'Creating technology to empower civilians to explore space on their own terms.',
-    link: { href: 'http://planetaria.tech', label: 'planetaria.tech' },
-    logo: logoPlanetaria,
+      'Creating efficient and appealing digital solutions. This website.',
+    link: { href: 'appflow.com', label: 'appflow' },
+    logo: logoAppFlow,
   },
   {
-    name: 'Animaginary',
+    name: 'RNImobiliare',
     description:
-      'High performance web animation library, hand-written in optimized WASM.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoAnimaginary,
+      'Presentation website for a real-estate company.',
+    link: { href: 'RNImobiliare.ro', label: 'RNImobiliare.ro' },
+    logo: logoRNImobiliare,
   },
   {
-    name: 'HelioStream',
+    name: 'TeamManager',
     description:
-      'Real-time video streaming library, optimized for interstellar transmission.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoHelioStream,
+      'A web application created with React and Phoenix Liveview where users create developer teams and manage projects',
+    link: { href: 'TeamManager.com', label: 'TeamManager.com' },
+    logo: logoTeamManager,
   },
   {
-    name: 'cosmOS',
+    name: 'This could be you',
     description:
-      'The operating system that powers our Planetaria space shuttles.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoCosmos,
+      'If you want to work with me, just email me.',
+    link: { href: '#', label: 'YourWebsite.com' },
+    logo: logoSample,
   },
-  {
-    name: 'OpenShuttle',
-    description:
-      'The schematics for the first rocket I designed that successfully made it to orbit.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoOpenShuttle,
-  },
+
 ]
 
 function LinkIcon(props) {
@@ -65,12 +57,13 @@ export default function Work() {
         <title>Projects - Florea Dragos</title>
         <meta
           name="description"
-          content="Things I’ve made trying to put my dent in the universe."
+          content="Noticable projects i've done."
         />
       </Head>
       <SimpleLayout
-        title="Things I’ve made trying to put my dent in the universe."
-        intro="I’ve worked on tons of little projects over the years but these are the ones that I’m most proud of. Many of them are open-source, so if you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved."
+        title="Noticable projects i completed"
+        intro="I’ve worked on different little projects over the years but these are the ones that are the most noticeable."
+
       >
         <ul
           role="list"
@@ -98,6 +91,9 @@ export default function Work() {
           ))}
         </ul>
       </SimpleLayout>
+      <div className='md:mb-80'> 
+            
+      </div>
     </>
   )
 }

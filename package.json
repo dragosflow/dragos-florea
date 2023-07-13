@@ -21,6 +21,7 @@
     "fast-glob": "^3.2.11",
     "feed": "^4.2.2",
     "focus-visible": "^5.2.0",
+    "framer-motion": "^10.12.20",
     "next": "13.4.2",
     "next-router-mock": "^0.9.3",
     "postcss-focus-visible": "^6.0.4",
@@ -32,6 +33,7 @@
   "devDependencies": {
     "eslint": "8.26.0",
     "eslint-config-next": "13.0.2",
+    "pdf-loader": "^1.0.2",
     "prettier": "^2.8.7",
     "prettier-plugin-tailwindcss": "^0.2.6"
   }
