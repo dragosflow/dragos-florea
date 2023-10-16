@@ -37,20 +37,20 @@ export default function Education() {
         />
       </Head>
       <SimpleLayout
-        title="The education that led me where i am today"
+        title="The education that led me where I am today"
         intro="In my opinion, being a developer means you never stop learning."
       >
         <div className="space-y-20">
-          <ToolsSection title="Highschool">
-            <Tool title='Liceul Vocational Pedagogic "Nicolae Bolcas" Beius - Mathematics and Computer Science, Romania'>
-
-                BACALAUREAT Degree
-           </Tool>
+          <ToolsSection title="University">
+            <Tool title='West University of Timisoara - Computer Science, Romania'>
+              Master&apos;s degree in Cybersecurity  <br/>
+              Ongoing<br/>
+            </Tool>
           </ToolsSection>
 
           <ToolsSection title="University">
             <Tool title='West University of Timisoara - Computer Science, Romania'>
-                Bachelor&apos;s degree <br/>
+                Bachelor&apos;s degree in Computer science <br/>
                 Thesis - Teammanager, a web application created with React and Phoenix Liveview
                 where users create developer teams and manage projects <br/>
 

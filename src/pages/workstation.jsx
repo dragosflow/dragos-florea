@@ -36,17 +36,17 @@ export default function Workstation() {
         />
       </Head>
       <SimpleLayout
-        title="This is what i use to develop the best apps"
-        intro="My desk and all the equipment i use to boost productivity."
+        title="This is what I use to develop the best apps"
+        intro="My desk and all the equipment I use to boost productivity."
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
             <Tool title="16” MacBook Pro, M1 Pro, 16GB RAM">
-            This MacBook is the perfect solution for enhanced productivity and a superior work experience, even when i am on the go.
+            This MacBook is the perfect solution for enhanced productivity and a superior work experience, even when I am on the go.
             </Tool>
             <Tool title="Windows PC">
             Intel Core I5-6500, Geforce GTX 1060 6GB, 8GB RAM<br/>
-            I only use it if i need to test something on windows.            
+            I only use it if I need to test something on windows.            
             </Tool>
             <Tool title="Main display - Lenovo G34w-10 34 Inch WLED Ultra-Wide Curved Monitor">
               This monitors offers a lot of workspace because of its 3440x1440 ultrawide resolution.
@@ -55,7 +55,7 @@ export default function Workstation() {
               Using a secondary display helps me in a lot of situations. Any extra workspace is a bonus.
             </Tool>
             <Tool title="Logitech MX Master 3S">
-              Although i love the trackpad, this mouse boosts my productivity.
+              Although I love the trackpad, this mouse boosts my productivity.
             </Tool>
             <Tool title="Razer Iskur">
              Just an ergonomic chair.
@@ -64,7 +64,7 @@ export default function Workstation() {
         
           <ToolsSection title="Development tools">
             <Tool title="VS Code">
-              Because i use a lot of IDEs.
+              Because I use a lot of IDEs.
             </Tool>
             <Tool title="Terminal"/>
             <Tool title="DevToys">

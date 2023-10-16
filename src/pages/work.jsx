@@ -61,7 +61,7 @@ export default function Work() {
         />
       </Head>
       <SimpleLayout
-        title="Noticable projects i completed"
+        title="Noticable projects I completed"
         intro="I’ve worked on different little projects over the years but these are the ones that are the most noticeable."
 
       >
