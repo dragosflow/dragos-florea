@@ -64,7 +64,6 @@ export default function Workstation() {
         
           <ToolsSection title="Development tools">
             <Tool title="VS Code">
-              Because I use a lot of IDEs.
             </Tool>
             <Tool title="Terminal"/>
             <Tool title="DevToys">
@@ -105,7 +104,7 @@ export default function Workstation() {
               Phoenix Liveview <br/>
               Python <br/>
               Flask <br/>
-              Django <br/>
+              Node
             </Tool>
           </ToolsSection>
         </div>

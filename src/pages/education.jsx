@@ -43,12 +43,12 @@ export default function Education() {
         <div className="space-y-20">
 
           <ToolsSection title="University">
-            <Tool title='West University of Timisoara - Computer Science, Romania'>
+            <Tool title='West University of Timisoara'>
               Master&apos;s degree in Cybersecurity  <br/>
               Ongoing<br/>
             </Tool>
 
-            <Tool title='West University of Timisoara - Computer Science, Romania'>
+            <Tool title='West University of Timisoara'>
                 Bachelor&apos;s degree in Computer science <br/>
                 Thesis - Teammanager, a web application created with React and Phoenix Liveview
                 where users create developer teams and manage projects <br/>
