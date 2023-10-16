@@ -41,19 +41,17 @@ export default function Education() {
         intro="In my opinion, being a developer means you never stop learning."
       >
         <div className="space-y-20">
+
           <ToolsSection title="University">
             <Tool title='West University of Timisoara - Computer Science, Romania'>
               Master&apos;s degree in Cybersecurity  <br/>
               Ongoing<br/>
             </Tool>
-          </ToolsSection>
 
-          <ToolsSection title="University">
             <Tool title='West University of Timisoara - Computer Science, Romania'>
                 Bachelor&apos;s degree in Computer science <br/>
                 Thesis - Teammanager, a web application created with React and Phoenix Liveview
                 where users create developer teams and manage projects <br/>
-
            </Tool>
           </ToolsSection>
 
