@@ -1,2 +1,2 @@
 # AppFlow
-Website for AppFlow SRL/Dragos Florea developer portofolio
+Website for Dragos Florea developer portofolio
